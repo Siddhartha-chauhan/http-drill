@@ -2,8 +2,23 @@
 
 This project implements a simple static HTTP server using **vanilla JavaScript** and Node.js built-in modules.
 
-## Requirements
-- Node.js (v18+ recommended)
+
+### Description
+
+- **server.js**  
+  Contains all the route handling logic for the server.
+  
+- **package.json**  
+  Defines project name, version, type (module), and start script.
+
+- **package-lock.json**  
+  Automatically generated to lock installed Node.js package versions.
+
+- **.gitignore**  
+  Ensures that unnecessary files like `node_modules` and OS-specific files are not committed.
+
+- **README.md**  
+  Explains project setup, endpoints, and usage instructions.
 
 ## Setup & Run
 
