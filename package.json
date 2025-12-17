@@ -1,0 +1,7 @@
+{
+  "name": "siddhartha-http-server",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
